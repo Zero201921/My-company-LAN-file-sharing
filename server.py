@@ -37,7 +37,7 @@ from urllib.parse import quote, unquote, urlparse, parse_qs
 # ============ 配置区 ============
 ROOT = r"D:\物料清单"
 PORT = 8000
-INIT_ADMIN = {"admin": "admin123", "name": "管理员", "dept": "系统"}
+INIT_ADMIN = {"admin": "xxxxxxx", "name": "管理员", "dept": "系统"}
 SESSION_TTL = 28800
 MAX_UPLOAD = 500 * 1024 * 1024   # 上传大小上限 500MB
 # ================================
