@@ -160,6 +160,7 @@ cd "C:\Users\用户名称\Projects\AI-Study\共享服务"
 > 修改方法:admin 登录 → 管理后台 → 账号管理 → 每行「改密码」。
 
 ---
+<img width="1474" height="1435" alt="image" src="https://github.com/user-attachments/assets/4622ab9c-8f01-49bd-a694-52c8292263b7" />
 
 *文档版本:v1.0(2026-08-10)*
 *系统版本:技术部项目资料数据库 v4(LAN 版)*
